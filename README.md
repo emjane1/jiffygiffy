@@ -7,7 +7,7 @@ simple-n-sweet gif search which finds giphy stickers
 * layout adapts for device width
 * nice to have: ability to save and view favorites with account login, auto-clear feature on new search, robust filters for search precision; integrate with Google Vision and upload a static image to match it with relevant giphy stickers; animated svg logo could add more fun to overall look and feel
 
-##Shareable
+## Shareable
 * FB & Twitter sharing would be a nice to have
 
 ## Re-usability
