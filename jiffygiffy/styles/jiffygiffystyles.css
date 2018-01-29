@@ -16,8 +16,8 @@ nav {
 
 /*form*/
 #jiffyForm {
-  width: 356px;
-  margin: 20px auto; }
+  width: 100%;
+  margin: 20px 0; }
   #jiffyForm #form-value {
     width: 100% !important;
     margin: 20px 0 10px !important; }
